@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I3WyAlE6AD6ON4N3ctcYf4dJBQM9ZEMJAgfbKjtZgM784VLAPSJOYhOO/HGWdj35wRIPH64842ZrG6ZRvh20cw==",
+  "success": true,
+  "projectFilePath": "D:\\PIR testna aplikacija\\PIRApp\\PIRApp\\PIRApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stefanmili\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
